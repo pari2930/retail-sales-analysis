@@ -1,0 +1,21 @@
+REGION SUMMARY
+        Total_Sales  Total_Profit  Orders  Profit Margin %
+Region                                                    
+West    127840930.0    25122236.0    2377             19.7
+South   127137719.0    25097020.0    2419             19.7
+North   123247033.0    24868448.0    2409             20.2
+East    122110134.0     9938783.0    2399              8.1
+
+CATEGORY DISCOUNT IMPACT
+                 Avg_Discount  Total_Profit   Total_Sales  Profit Margin %
+Category                                                                  
+Electronics              0.14   52009206.30  2.843283e+08             18.3
+Furniture                0.15   29093044.83  1.946408e+08             14.9
+Office Supplies          0.14    3924236.72  2.136670e+07             18.4
+
+SEGMENT SUMMARY
+             Total_Sales  Total_Profit  Avg_Order_Value  Orders
+Segment                                                        
+Home Office  162885302.0    34303564.0          51190.0    3180
+Corporate    169842474.0    25870568.0          52976.0    3206
+Consumer     167608040.0    24852355.0          52052.0    3218
